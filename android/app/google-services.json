@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "872483747309",
+    "project_id": "foodgame-3d3f8",
+    "storage_bucket": "foodgame-3d3f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872483747309:android:5bd8f2f4ed62b9ce0063e4",
+        "android_client_info": {
+          "package_name": "com.example.camapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872483747309-2bg86mvk5h6tbtfrd3bh5arae2v04hc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJMHjlsprOaWj2n6LKIw0Y19AzxJ33cKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872483747309-2bg86mvk5h6tbtfrd3bh5arae2v04hc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
